@@ -1,0 +1,14 @@
+{"partners":[
+    {"autor":"Mark", 
+    "avatar":"1", 
+    "titulo":"Actualizaciones facebook", "contenido":"Facebook es la aplicación oficial de la red social por excelencia, que nos permitirá gestionar nuestra cuenta de usuario, y hacer prácticamente lo mismo que podríamos hacer desde el navegador, pero de una manera mucho más cómoda", 
+	"fecha":"01-02-2015"},
+    {"autor":"Steve",
+     "avatar":"2", 
+     "titulo": "Actualizaciones iphone", "contenido":"Aprende a actualizar un dispositivo iOS de forma inalámbrica o mediante iTunes. Las actualizaciones de iOS añaden nuevas funciones que te permiten hacer aún más cosas con tu iPhone, iPad o iPod touch. Asegúrate de tener los dispositivos actualizados para no perderte ninguna de las funciones más novedosas.", 
+     "fecha":"03-02-2015"},
+    {"autor":"Bill", 
+     "avatar":"3", 
+     "titulo":"Actualizaciones windows 10", "contenido":"Actualiza con confianza: más de 200 millones de personas han actualizado y están encantadas. Tendrás una versión completa de Windows 10 gratis, no una versión de evaluación o una con menos funciones, si realizas la actualización antes del 29 de julio de 2016.",
+     "fecha":"18-07-2015"}
+]}

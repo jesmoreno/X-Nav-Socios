@@ -1,0 +1,19 @@
+.ui-widget {
+    font-family: 'Arial', Gadget, sans-serif;
+    font-style: italic;
+    font-size: 1em;
+
+}
+
+.ui-widget-content {
+    color: black;
+}
+
+#update{
+    text-align: right;
+    color: blue;
+}
+
+.info{
+    color:blue;
+}
